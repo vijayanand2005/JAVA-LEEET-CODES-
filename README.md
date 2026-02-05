@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vijayanand2005/JAVA-LEEET-CODES-/tree/master/0008-string-to-integer-atoi) |
+| [1768-merge-strings-alternately](https://github.com/vijayanand2005/JAVA-LEEET-CODES-/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vijayanand2005/JAVA-LEEET-CODES-/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/vijayanand2005/JAVA-LEEET-CODES-/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
